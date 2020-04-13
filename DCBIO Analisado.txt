@@ -1,0 +1,31 @@
+AgeOfPhilosophy,Mismatched property value,899
+AgeOfPhilosophy,Selector attribute is never used,628672
+AgeOfPhilosophy,Cannot Resolve File,0
+AgeOfPhilosophy,Cannot Resolve Directory,0
+AgeOfPhilosophy,Unterminated Statement,0
+AgeOfPhilosophy,Local variable is redundant,0
+AgeOfPhilosophy,Redundant Character,0
+AgeOfPhilosophy,XML tag has empty body,0
+AgeOfPhilosophy,Cannot resolve symbol,0
+AgeOfPhilosophy,Unresolved package,0
+AgeOfPhilosophy,Unresolved class,0
+AgeOfPhilosophy,No directive is matched on attribute,0
+AgeOfPhilosophy,Unit of measure is redundant,278
+AgeOfPhilosophy,Unused import,0
+AgeOfPhilosophy,Unused parameter,3
+AgeOfPhilosophy,Mismatched parameters,0
+AgeOfPhilosophy,Attempt to assign to const or readonly variable,0
+AgeOfPhilosophy,Type number is not assignable to type string,0
+AgeOfPhilosophy,Missing associated label,4283
+AgeOfPhilosophy,Unused field,0
+AgeOfPhilosophy,Unused readonly,0
+AgeOfPhilosophy,Unused property,0
+AgeOfPhilosophy,Unused method,0
+AgeOfPhilosophy,Unknown CSS attribute,19925
+AgeOfPhilosophy,Unused local variable,370
+AgeOfPhilosophy,Cannot resolve class,0
+AgeOfPhilosophy,Duplicate declaration,198
+AgeOfPhilosophy,Property width override,0
+AgeOfPhilosophy,Property transition override,90
+AgeOfPhilosophy,Missing required fields,8
+AgeOfPhilosophy,Closing tag,0
