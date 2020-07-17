@@ -1,0 +1,17 @@
+"numeroCommits","linguagensProgramacaoUtilizadas","usoTestesAutomatizados","frequenciaInteracaoCliente","tamanhoSprints","artefatosEntreguesCiclo","ferramentasComunicacaoEquipe","tamanhoEquipe","periodoTisRealizado","errorWarningClass","totalProblemasClasseFrequente","totalProblemas","totalProblemasErros","totalProblemasWarnings","totalClasses"
+244,4,0,4,2,1,1,5,3,"Unused_attributes",63,63,0,63,1
+169,5,0,0,2,1,1,2,5,"Unused_attributes",58,146,88,58,4
+146,3,0,2,2,1,1,5,3,"Unused_attributes",2785,3302,331,2971,6
+44,5,0,4,4,0,1,3,4,"Unused_attributes",1655027,19359,19291,68,4
+37,4,0,4,4,0,1,3,4,"Unused_attributes",629045,654726,5190,649536,5
+113,4,0,4,4,0,1,2,4,"Unused_attributes",646722,1176143,529385,646758,6
+44,4,0,1,2,1,1,4,3,"Cannot_resolve_errors",19283,2186648,530236,1656412,8
+51,6,1,0,2,1,1,3,5,"Cannot_resolve_errors",698,909,909,0,2
+134,2,1,1,1,0,2,3,4,"Cannot_resolve_errors",96,96,96,0,1
+112,5,0,0,4,1,2,5,5,"Cannot_resolve_errors",1155,1155,1155,0,1
+122,4,0,0,3,0,1,3,4,"Assign_Errors",2168236,2232841,2169505,63336,6
+53,1,0,4,4,0,1,2,4,"Assign_Errors",3160,3465,3194,271,6
+19,3,0,2,2,1,1,1,3,"Assign_Errors",228,272,246,26,3
+54,3,0,2,3,0,1,2,4,"Mismatched_errors",20,20,20,0,1
+52,3,0,2,3,0,1,3,4,"Missing_associated_label",39,53,50,3,3
+82,4,0,1,3,0,2,5,4,"Missing_associated_label",7787,10963,7971,2992,6
