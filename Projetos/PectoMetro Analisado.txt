@@ -1,0 +1,8 @@
+AgeOfPhilosophy,Mismatched property value,0
+AgeOfPhilosophy,Cannot Resolve File,0
+AgeOfPhilosophy,Local variable is redundant,0
+AgeOfPhilosophy,XML tag has empty body,3
+AgeOfPhilosophy,Attempt to assign to const or readonly variable,0
+AgeOfPhilosophy,Missing associated label,39
+AgeOfPhilosophy,Unused field,0
+AgeOfPhilosophy,Property width override,0
