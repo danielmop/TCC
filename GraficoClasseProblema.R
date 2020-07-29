@@ -17,6 +17,6 @@ p <- ggplot(data=df, aes(x=reorder(classe,qproblemas), y=qproblemas)) +
   ylab("#Problemas (erros + warnings)")
 
 
-pdf("Figuras/ProblemasPorClasse.pdf", width = 7, height = 4)
+pdf("Figuras/ProblemasPorClasse.pdf", width = 7, height = 3)
 plot(p + coord_flip())
 dev.off()
