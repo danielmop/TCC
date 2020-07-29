@@ -13,7 +13,7 @@ geom_text(stat="identity", aes(label=qproblemas),  vjust=-1) +
 theme_bw(base_size = 12) + 
 theme(axis.text.x = element_text(angle = 75, hjust = 1)) +
 xlab("Projeto de TIS") +
-ylab("Quantidade de problemas encontrados")
+ ylab("#Problemas (erros + warnings)")
 	
 
 pdf("Figuras/ProblemasPorProjeto.pdf", width = 7, height = 4)
