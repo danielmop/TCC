@@ -12,9 +12,9 @@ p <- ggplot(data=df, aes(x=reorder(classe,qproblemas), y=qproblemas)) +
   geom_text(stat="identity", aes(label=qproblemas),  hjust=-1) + 
   theme_bw(base_size = 12) + 
   scale_y_log10(breaks = scales::trans_breaks("log10", function(x) 10^x),
-   labels = scales::trans_format("log10", scales::math_format(10^.x))) +
-  xlab("Classes de problemas") +
-  ylab("#Problemas (erros + warnings)")
+   labels = scales::trans_format("log10", scales::math_format(10^.x))) + 
+  xlab("Classes de problemas")+
+  ylab("Soma de Problemas")
 
 
 pdf("Figuras/ProblemasPorClasse.pdf", width = 7, height = 3)
